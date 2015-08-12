@@ -1,0 +1,15 @@
+/**
+ * User: Michael Lazarev <mihailaz.90@gmail.com>
+ * Date: 11.08.15
+ * Time: 13:55
+ */
+
+.table.collection-view td {
+	border: 0;
+}
+.collection-view .photo-title {
+	font-size: 12px;
+	width: 150px;
+	max-height: 100px;
+	overflow: hidden;
+}

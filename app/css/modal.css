@@ -1,0 +1,21 @@
+/**
+ * User: Michael Lazarev <mihailaz.90@gmail.com>
+ * Date: 11.08.15
+ * Time: 17:55
+ */
+
+.modal .item-view {
+	margin: auto;
+}
+.modal .modal-body .photo-img img {
+	max-width: 568px;
+}
+.modal .modal-header {
+	min-height: 45px;
+}
+.modal-open {
+	overflow: hidden;
+}
+.modal .modal-body .photo-img {
+	text-align: center;
+}
