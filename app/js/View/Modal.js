@@ -16,8 +16,6 @@ define(['backbone', 'underscore', 'bootstrap'], function(Backbone, _){
 			this.body = this.$('.modal-body');
 		},
 		onHide: function(){
-			//app.router.navigate('');
-			//location.hash = '';
 			history.back();
 		},
 		show: function(view){
